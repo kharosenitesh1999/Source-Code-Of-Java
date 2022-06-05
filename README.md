@@ -1,7 +1,7 @@
 # Source-Code-Of-Java <br/>
 
  <b>Steps <br/> <b/> 1-Click On this Link and Download file . <br/>
-  2-The zip file  Extract and Open the this path :" /openjdk/jdk/test/java " .<br/>  
+  2-This zip file  Extract and Open the this path :" /openjdk/jdk/test/java " .<br/>  
   
    Note: "It's path for all JDK and you  will get java Source code " 
   <br/><br/>
